@@ -1,0 +1,11 @@
+insecure-package==0.1.0
+BeautifulSoup4
+Django
+Fabric==1.2.0
+Jinja2==2.5.5
+PyYAML
+Pygments
+SQLAlchemy
+South
+amqplib
+anyjson
